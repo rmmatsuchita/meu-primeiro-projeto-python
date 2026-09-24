@@ -1,4 +1,4 @@
 nome = "Reynaldo"
 
 print(f"Olá, {nome}!")
-print("Meu primeiro projeto Python no GitHub.")
+print("Estou aprendendo Python, Git e GitHub!")
